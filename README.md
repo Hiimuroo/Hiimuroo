@@ -15,12 +15,6 @@
 - JS & React
 - React Native
 
-💞️ Collaborations
-===================
-
-- Web & mobile projects
-- Fun games
-
 📫 Reach me
 ===============
 
