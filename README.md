@@ -1,42 +1,33 @@
 👋 Hi, I’m @Hiimuroo
 =====================
 
-💻 Integrateur/Developpeur Web passionné
+💻 Web dev & gamer 🎮
 
-🎮 Gamer dans l'âme
+👀 Interests
+============
 
-👀 I’m interested in
-====================
+- Web dev (HTML, CSS, JS, React)
+- Mobile dev (React Native)
 
-- 🌐 Web development (HTML, CSS, JavaScript, React)
-- 🛠️ Web design and integration
-- 📱 Mobile development (React Native)
+🌱 Learning
+============
 
-🌱 I’m currently learning
-=========================
+- JS & React
+- React Native
 
-- 🧠 Deepening my knowledge of JavaScript and React
-- 📱 Discovering mobile development with React Native
-
-💞️ I’m looking to collaborate on
-===================================
-
-- 🌐 Exciting web development projects
-- 📱 Innovative mobile applications
-- 🤖 Fun and engaging games
-
-📫 How to reach me
+💞️ Collaborations
 ===================
 
-- 📧 [Email](matthieu.labille@gmail.com)
-- 🌐 [Portfolio](https://your-portfolio-website.com)
+- Web & mobile projects
+- Fun games
 
-😄 Pronouns
-============
+📫 Reach me
+===============
 
-- He/Him
+- [Email](mailto:matthieu.labille@gmail.com)
+- [Twitter](https://twitter.com/your-twitter-handle)
+- [Portfolio](https://your-portfolio-website.com)
 
-⚡ Fun fact
-============
+😄 Pronouns: He/Him
 
-- 🎮 I can spend hours exploring the vast worlds of my favorite video games
+⚡ Fun fact: Can't resist exploring video game worlds 🌌
