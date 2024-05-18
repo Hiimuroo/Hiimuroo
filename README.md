@@ -12,7 +12,7 @@
 🌱 Learning
 ============
 
-- JS & React
+- JS & React & Redux
 - React Native
 
 📫 Reach me
