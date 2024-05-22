@@ -19,8 +19,7 @@
 ===============
 
 - [Email](mailto:matthieu.labille@gmail.com)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Portfolio](https://your-portfolio-website.com)
+- [Portfolio](https://master--matthieu-labille-portfolio.netlify.app/))
 
 😄 Pronouns: He/Him
 
